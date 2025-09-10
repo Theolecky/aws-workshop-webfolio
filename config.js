@@ -1,19 +1,19 @@
 const siteConfig = {
   personal: {
-    name: 'Baimam Boukar',
+    name: 'Theophilus Lekishep',
     title: 'MSc @ Carnegie Mellon University',
     institution: 'CMU Africa',
     department: 'College of Engineering',
-    email: 'baimamboukar@gmail.com',
+    email: 'tklekishep@gmail.com',
     location: 'Kigali, Rwanda',
     avatar:
       'https://github.com/user-attachments/assets/19771f37-ee31-43d6-a993-29de6929379c',
-    bio: '🥷 I am Designed For Failure',
+    bio: '🥷 How you do something is how you do everything',
     social: {
-      email: 'mailto:baimamboukar@gmail.com',
-      github: 'https://github.com/baimamboukar',
-      linkedin: 'https://linkedin.com/in/baimamboukar',
-      twitter: 'https://twitter.com/baimamboukar',
+      email: 'mailto:tklekishep@gmail.com',
+      github: 'https://github.com/Theolecky',
+      linkedin: 'https://linkedin.com/in/Theolecky',
+      twitter: 'https://twitter.com/Theolecky',
     },
   },
   navigation: [
@@ -27,24 +27,17 @@ const siteConfig = {
   about: {
     title: 'About me',
     content:
-      'I am a master student at Carnegie Mellon University. My research and projects interests center on Space Technologies, Machine Learning applications in Healthcare and Earth Observation. My expertise lies in software engineering and cloud computing.',
+      'I am a master student at Carnegie Mellon University. My research and projects interests center on Machine Learning applications in Development Economics and Earth Observation. My expertise lies in information security and cloud computing.',
     interests: [
-      'Space Missions Design',
-      'Sattelites Constellations',
       'Cloud Computing',
       'Open Source',
       'Machine Learning',
     ],
     education: [
       {
-        degree: "Bachelor's in Computer Science",
-        institution: 'ICT University, Yaounde',
-        year: '2021 - Present',
-      },
-      {
-        degree: 'MLH Fellowship, Open Source',
-        institution: 'MLH x G-Research',
-        year: '2023 - 2023',
+        degree: "Bachelor's of Business Information Technology",
+        institution: 'Strathmore University, Nairobi',
+        year: '2016 - 2020',
       },
       {
         degree: 'Msc In IT, Applied ML',
@@ -57,9 +50,9 @@ const siteConfig = {
     {
       title:
         'Setting up a Self-Hosted GitHub Actions Runner on AWS Virtual Machines',
-      authors: 'Boukar, B.',
-      venue: 'Medium Technical Blog',
-      year: '2024',
+      authors: 'Theo, Lekishep',
+      venue: 'Still loading',
+      year: 'Not yet',
       type: 'blog',
     },
     {
